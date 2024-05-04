@@ -1,2 +1,2 @@
 # Price-Tracking
-uses api for price tracking various websites
+Uses api for price tracking various websites
